@@ -1,0 +1,30 @@
+c:\users\den phaser\documents\visual studio 2013\Projects\TRPO 08-1\TRPO 08-1\bin\TRPO 08-1.dll.config
+c:\users\den phaser\documents\visual studio 2013\Projects\TRPO 08-1\TRPO 08-1\bin\TRPO 08-1.dll
+c:\users\den phaser\documents\visual studio 2013\Projects\TRPO 08-1\TRPO 08-1\bin\TRPO 08-1.pdb
+c:\users\den phaser\documents\visual studio 2013\Projects\TRPO 08-1\TRPO 08-1\bin\Antlr3.Runtime.dll
+c:\users\den phaser\documents\visual studio 2013\Projects\TRPO 08-1\TRPO 08-1\bin\EntityFramework.dll
+c:\users\den phaser\documents\visual studio 2013\Projects\TRPO 08-1\TRPO 08-1\bin\EntityFramework.SqlServer.dll
+c:\users\den phaser\documents\visual studio 2013\Projects\TRPO 08-1\TRPO 08-1\bin\Microsoft.Web.Infrastructure.dll
+c:\users\den phaser\documents\visual studio 2013\Projects\TRPO 08-1\TRPO 08-1\bin\Newtonsoft.Json.dll
+c:\users\den phaser\documents\visual studio 2013\Projects\TRPO 08-1\TRPO 08-1\bin\System.Web.Helpers.dll
+c:\users\den phaser\documents\visual studio 2013\Projects\TRPO 08-1\TRPO 08-1\bin\System.Web.Mvc.dll
+c:\users\den phaser\documents\visual studio 2013\Projects\TRPO 08-1\TRPO 08-1\bin\System.Web.Optimization.dll
+c:\users\den phaser\documents\visual studio 2013\Projects\TRPO 08-1\TRPO 08-1\bin\System.Web.Razor.dll
+c:\users\den phaser\documents\visual studio 2013\Projects\TRPO 08-1\TRPO 08-1\bin\System.Web.WebPages.Deployment.dll
+c:\users\den phaser\documents\visual studio 2013\Projects\TRPO 08-1\TRPO 08-1\bin\System.Web.WebPages.dll
+c:\users\den phaser\documents\visual studio 2013\Projects\TRPO 08-1\TRPO 08-1\bin\System.Web.WebPages.Razor.dll
+c:\users\den phaser\documents\visual studio 2013\Projects\TRPO 08-1\TRPO 08-1\bin\WebGrease.dll
+c:\users\den phaser\documents\visual studio 2013\Projects\TRPO 08-1\TRPO 08-1\bin\EntityFramework.xml
+c:\users\den phaser\documents\visual studio 2013\Projects\TRPO 08-1\TRPO 08-1\bin\EntityFramework.SqlServer.xml
+c:\users\den phaser\documents\visual studio 2013\Projects\TRPO 08-1\TRPO 08-1\bin\System.Web.Helpers.xml
+c:\users\den phaser\documents\visual studio 2013\Projects\TRPO 08-1\TRPO 08-1\bin\System.Web.Mvc.xml
+c:\users\den phaser\documents\visual studio 2013\Projects\TRPO 08-1\TRPO 08-1\bin\System.Web.Optimization.xml
+c:\users\den phaser\documents\visual studio 2013\Projects\TRPO 08-1\TRPO 08-1\bin\System.Web.Razor.xml
+c:\users\den phaser\documents\visual studio 2013\Projects\TRPO 08-1\TRPO 08-1\bin\System.Web.WebPages.xml
+c:\users\den phaser\documents\visual studio 2013\Projects\TRPO 08-1\TRPO 08-1\bin\System.Web.WebPages.Deployment.xml
+c:\users\den phaser\documents\visual studio 2013\Projects\TRPO 08-1\TRPO 08-1\bin\System.Web.WebPages.Razor.xml
+c:\users\den phaser\documents\visual studio 2013\Projects\TRPO 08-1\TRPO 08-1\bin\Antlr3.Runtime.pdb
+c:\users\den phaser\documents\visual studio 2013\Projects\TRPO 08-1\TRPO 08-1\bin\Newtonsoft.Json.xml
+c:\users\den phaser\documents\visual studio 2013\Projects\TRPO 08-1\TRPO 08-1\obj\Debug\TRPO 08-1.csprojResolveAssemblyReference.cache
+c:\users\den phaser\documents\visual studio 2013\Projects\TRPO 08-1\TRPO 08-1\obj\Debug\TRPO 08-1.dll
+c:\users\den phaser\documents\visual studio 2013\Projects\TRPO 08-1\TRPO 08-1\obj\Debug\TRPO 08-1.pdb

@@ -1,0 +1,18 @@
+﻿@{
+    ViewBag.Title = "Authorization";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+@model TRPO_08_1.Models.RegistrationViewModel
+
+@using (Html.BeginForm())
+{
+    @Html.LabelFor(m => m.Email)
+    @Html.EditorFor(m => m.Email)
+    <br />
+    @Html.LabelFor(m => m.Password)
+    @Html.EditorFor(m => m.Password)
+    <br />
+    <input type="submit" value="Login" />
+}

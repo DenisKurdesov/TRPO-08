@@ -1,0 +1,31 @@
+﻿@{
+    ViewBag.Title = "Registration";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+@model TRPO_08_1.Models.RegistrationViewModel
+
+@using (Html.BeginForm())
+{
+    @Html.LabelFor(m => m.Email)
+    @Html.EditorFor(m => m.Email)
+    <br />
+    @Html.LabelFor(m => m.Password)
+    @Html.EditorFor(m => m.Password)
+    <br />
+    @Html.LabelFor(m => m.PasswordRepeat)
+    @Html.EditorFor(m => m.PasswordRepeat)
+    <br>
+    @Html.LabelFor(m => m.Name)
+    @Html.EditorFor(m => m.Name)
+    <br>
+    @Html.LabelFor(m => m.Address)
+    @Html.EditorFor(m => m.Address)
+    <br>
+    @Html.LabelFor(m => m.Phone)
+    @Html.EditorFor(m => m.Phone)
+    <br>
+
+    <input type="submit" value="Register" />
+}
